@@ -1,5 +1,3 @@
-# Curso PHP
- Repositorio del curso de php
- 
- Durante la semana # 1 se trabajo los operadores - tipos de datos - variables y como inicarar un proyecto .php
- y se finalizo con un examen.
+# Modulos de estudio de PHP
+
+Se estudio todo los campos principales que se enplenan con php
